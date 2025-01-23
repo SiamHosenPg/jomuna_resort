@@ -12,6 +12,33 @@ import Pf4 from './image/profile/pf4.jpg'
 import Pf5 from './image/profile/pf5.jpg'
 import TextTestimonial from './image/profile/text.png'
 
+export const NavigationLinks = [
+    {
+        LinksName:"Proton Beadroon",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"System Color",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"Malagement",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"Darty Mineset",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"Color Comfotable",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"Derict opensorce",
+        PathLink:"/ProtonBeadroon"
+    },
+]
+
 export const HeroImages = {
     Hero1,
     Hero2,
