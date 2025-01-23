@@ -1,0 +1,16 @@
+.Header{
+    width: 100%;
+    height: calc(100vh - 5rem);
+}
+
+ .Header .ScrollDown{
+    right: 10%;
+}
+
+.Header .LeyoutChange{
+    margin-right: -60px;
+}
+
+.Header .line{
+    width: 1px;
+}

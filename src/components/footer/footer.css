@@ -1,0 +1,10 @@
+.Footer .SubscribeBox{
+    box-shadow: 4px 0px 14px #00000031;
+}
+
+.Footer .FooterBtm ul li{
+    font-weight: 400;
+    color: #ddd;
+    margin-top: 5px;
+    cursor: pointer;
+}

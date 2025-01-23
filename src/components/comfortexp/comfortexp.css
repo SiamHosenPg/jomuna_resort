@@ -1,0 +1,12 @@
+.ComfortExp .LearnBTN{
+    transition: all .3s;
+}
+
+.ComfortExp .LearnBTN .RightLine{
+    margin-left: -20px;
+    transition: all .3s;
+}
+
+.ComfortExp .LearnBTN:hover .RightLine{
+    margin-left: -5px;
+}
