@@ -1,6 +1,7 @@
 import Hero1 from './image/pexels-cottonbro-6263036.jpg'
 import Hero2 from './image/pexels-heyho-7214156.jpg'
 import Hero3 from './image/pexels-jvdm-1457842.jpg'
+import SignuterIamge from './image/sig/ceo.png'
 import Quality from './image/icon/badge.png'
 import Warenty from './image/icon/guarantee.png'
 import Shipping from './image/icon/money.png'
@@ -45,7 +46,8 @@ export const HeroImages = {
     Hero3,
     Quality,
     Warenty,
-    Shipping
+    Shipping,
+    SignuterIamge
 }
 
 export const ProfileImage = {

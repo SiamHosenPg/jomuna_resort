@@ -20,9 +20,9 @@ const Nav = () => {
             <div className="Logo  font-bold"><NavLink to="/"><span className=' text-2xl'>Jomuna Resort</span></NavLink></div>
             <ul className="Links flex items-center justify-center gap-10 font-medium">
                 <li><NavLink to="/home">Home</NavLink></li>
-                <li><NavLink to="/home">About</NavLink></li>
-                <li><NavLink to="/home">Services</NavLink></li>
-                <li><NavLink to="/home">Contructs</NavLink></li>
+                <li><NavLink to="/about">About</NavLink></li>
+                <li><NavLink to="/images">Image Gallery</NavLink></li>
+                <li><NavLink to="/prices">Prices</NavLink></li>
             </ul>
             <div onClick={BarToggle} className="MenuBar p-3"> <i class="fa-solid fa-bars-staggered text-xl"></i></div>
         </div>
