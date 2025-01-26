@@ -49,6 +49,32 @@ export const HeroImages = {
     Shipping,
     SignuterIamge
 }
+export const PriceingPlan =[
+    {
+        Name: "Jomuna Resort",
+        PhotoLink: Hero1,
+        InfoText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt unde culpa optio vitae eos quo!",
+        Price: 32,
+        PlotLocation: "Khulna Bangladesh",
+        OrderLink: "JomunaResort=1232"
+    },
+    {
+        Name: "Khan Resort",
+        PhotoLink: Hero2,
+        InfoText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt unde culpa optio vitae eos quo!",
+        Price: 32,
+        PlotLocation: "Pabna Bangladesh",
+        OrderLink: "JomunaResort=1232"
+    },
+    {
+        Name: "Rustoma Cottage",
+        PhotoLink: Hero3,
+        InfoText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt unde culpa optio vitae eos quo!",
+        Price: 32,
+        PlotLocation: "2121 Lagobpur Bangladesh",
+        OrderLink: "JomunaResort=1232"
+    }
+]
 
 export const ProfileImage = {
     Pf1,
