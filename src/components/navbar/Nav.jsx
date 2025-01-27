@@ -32,7 +32,7 @@ const Nav = () => {
           {
            NavigationLinks && NavigationLinks.map(LinksData =>{
               return(
-                <li className='mt-6'><NavLink to={LinksData.PathLink}>{LinksData.LinksName}</NavLink></li>
+                <li className='mt-6 hover:pl-6 duration-300'><NavLink to={LinksData.PathLink}>{LinksData.LinksName}</NavLink></li>
               )
             })
           }
