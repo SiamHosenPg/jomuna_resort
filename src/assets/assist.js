@@ -15,27 +15,39 @@ import TextTestimonial from './image/profile/text.png'
 
 export const NavigationLinks = [
     {
-        LinksName:"Proton Beadroon",
+        LinksName:"Collections",
+        PathLink:"/Collections"
+    },
+    {
+        LinksName:"Men's Fashion",
         PathLink:"/ProtonBeadroon"
     },
     {
-        LinksName:"System Color",
+        LinksName:"Women's Fashion",
         PathLink:"/ProtonBeadroon"
     },
     {
-        LinksName:"Malagement",
+        LinksName:"Kids' Section",
         PathLink:"/ProtonBeadroon"
     },
     {
-        LinksName:"Darty Mineset",
+        LinksName:"Health & Beauty",
         PathLink:"/ProtonBeadroon"
     },
     {
-        LinksName:"Color Comfotable",
+        LinksName:"Sports & Outdoors",
         PathLink:"/ProtonBeadroon"
     },
     {
-        LinksName:"Derict opensorce",
+        LinksName:"Electronics",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"Gift Cards",
+        PathLink:"/ProtonBeadroon"
+    },
+    {
+        LinksName:"Gadgets",
         PathLink:"/ProtonBeadroon"
     },
 ]
