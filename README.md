@@ -1,3 +1,17 @@
-Jomuna Resort - Elegant Restaurant Landing Page
+Jomuna Resort - Experience Luxury & Comfort
 
-Jomuna Resort is a beautifully designed restaurant landing page built with HTML, CSS, and JavaScript, react js offering a seamless and engaging user experience. The website features a clean and modern design, highlighting the restaurant’s ambiance, menu, and special offers. With smooth animations, responsive navigation, and an intuitive layout, visitors can explore the resort’s services effortlessly. A dedicated contact section ensures easy reservations, making Jomuna Resort the perfect digital gateway for food lovers and travelers.
+Jomuna Resort is a beautifully designed, modern, and fully responsive website built with React.js and Tailwind CSS. It offers a seamless user experience with a sleek UI, ensuring easy navigation across all devices.
+
+✨ Key Features:
+
+Stunning and interactive design for an immersive experience.
+
+Fully responsive layout optimized for all screen sizes.
+
+Smooth animations and transitions for an elegant look.
+
+User-friendly interface with fast loading speed.
+
+Dynamic booking system for effortless reservations.
+
+Explore Jomuna Resort and indulge in the beauty of luxury and relaxation! 🌿🏝️
