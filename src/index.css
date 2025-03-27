@@ -2,40 +2,41 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-    font-family: poppins;
-    font-size: 16px;
+* {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
 }
 
-img{
-    object-fit: cover;
+img {
+  object-fit: cover;
 }
 
-button, input{
-    outline: none;
-    display: block;
+button,
+input {
+  outline: none;
+  display: block;
 }
 
-.Ratio{
-    width: 1600px;
-    margin: auto;
+.Ratio {
+  width: 1600px;
+  margin: auto;
 }
 
-p{
-    color: #555;
+p {
+  color: #555;
 }
 
-h2{
-    font-size: 40px;
-    font-weight: 700;
+h2 {
+  font-size: 40px;
+  font-weight: 700;
 }
 
-h3{
-    font-size: 24px;
-    font-weight: 700;
+h3 {
+  font-size: 24px;
+  font-weight: 700;
 }
 
-h4{
-    font-size: 18px;
-    font-weight: 600;
+h4 {
+  font-size: 18px;
+  font-weight: 600;
 }
